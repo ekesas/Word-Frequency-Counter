@@ -4,4 +4,5 @@ response = gets.chomp
 
 puts "WHAT THE HELL DO YOU MEAN " + "'" +response.upcase + "'" + "??! YOU ARE FIRED!!"
 
-puts "I am outta here!! "
+# I am using this as a practice thing for me" 
+
