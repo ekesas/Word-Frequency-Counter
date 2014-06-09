@@ -1,0 +1,39 @@
+#heading{ border: 2px solid black; text-align: center; 
+	border-radius: 25px;font-family: Blake;font-size: 40px; 
+	background: -webkit-linear-gradient(black, yellow, red, green);}
+		
+} 
+#links{display: inline;}
+
+nav ul li{display: inline; 
+		padding-left: 100px; font-family: Blake; 
+		font-weight: Bold;font-size: 20px;}
+
+#section{width:800px; margin-left:220px; margin-right: 0; 
+	font-family: Wc Mano Negra Bta; font-size: 30px; background-color: #ffcc33;}
+
+	#side {width:200px; height:950px; float:left; background-color: #ffcc66; 
+		margin-top: 30px;}
+
+#side a{display:inline-block; padding-left: 10px; margin-top: 50px;margin-left: 18px; margin-right: 0px;}	
+
+#side2 {width:200px; height:950px; background-color: #ffcc66; 
+	float:right; margin-top: 30px;}	
+
+#side2 img{margin-left: 25px; padding-bottom: 30px;}	
+
+a{text-decoration: none; border: 1px solid black; border-radius: 10px; 
+	padding: 10px; text-align: center; background: -webkit-linear-gradient(red, orange, yellow);}
+
+#bottom{padding: 50px; padding-left: 10px; padding-right: 10px; margin-left: 40px;}	
+
+a:link {background: -webkit-linear-gradient(red, orange, yellow);}
+
+a:visited {background: red;}
+
+a:hover {background: -webkit-linear-gradient(green, yellow,white);}
+
+
+		
+
+	
